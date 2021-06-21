@@ -15,7 +15,7 @@ h3:hover {
 
 ::selection {
 	color: white;
-	background: green;
+	background: blue;
 } //文字反白時會改變背景顏色
 
 img {

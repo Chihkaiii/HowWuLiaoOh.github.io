@@ -1,33 +1,30 @@
-h3{
-	background-color: #FFFFDF;
-	color: black;
-	padding: 16px;
-}
+body {
+	background: -webkit-linear-gradient(-8deg, rgb(255, 255, 255),rgb(0, 59, 119))
+} //漸層背景
 
 h3:hover {
 	background-color: #FFD2D2;
+} //hover時背景顏色改變
+
+::selection {
+	color: white;
+	background: green;
+} //文字反白時會改變背景顏色
+
+img {
+	max-height: auto;
+	opacity: 1.0;
+	border-radius: 80%;
+	opacity: 0.4;
 }
 
-.line1 {
-	background: rgb(0, 0, 255);
-	color: orange;
-	opacity: 0.25
-}
+img:hover {
+	max-height: auto;
+	opacity: 1.0;
+	border-radius: 80%;
 
-.line2 {
-	background: rgb(0, 0, 255);
-	color: orange;
-	opacity: 0.5
-}
+} //hover時圖形形狀會變
 
-.line3 {
-	background: rgb(0, 0, 255);
-	color: orange;
-	opacity: 0.75
-}
-
-.line4 {
-	background: rgb(0, 0, 255);
-	color: orange;
-	opacity: 1
-}
+.line {
+		font-family: "Courier New", monospace;
+} //改字體

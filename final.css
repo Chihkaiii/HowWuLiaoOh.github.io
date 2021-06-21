@@ -1,0 +1,33 @@
+h3{
+	background-color: #FFFFDF;
+	color: black;
+	padding: 16px;
+}
+
+h3:hover {
+	background-color: #FFD2D2;
+}
+
+.line1 {
+	background: rgb(0, 0, 255);
+	color: orange;
+	opacity: 0.25
+}
+
+.line2 {
+	background: rgb(0, 0, 255);
+	color: orange;
+	opacity: 0.5
+}
+
+.line3 {
+	background: rgb(0, 0, 255);
+	color: orange;
+	opacity: 0.75
+}
+
+.line4 {
+	background: rgb(0, 0, 255);
+	color: orange;
+	opacity: 1
+}

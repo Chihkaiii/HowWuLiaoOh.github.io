@@ -1,4 +1,4 @@
-Please visit my homepage [Markdown Live Preview]((https://HowWuLiaoOh.github.io/)).
+Please visit my homepage [Markdown Live Preview](( https://howwuliaooh.github.io/)).
 
 Nice 2 meet u !!!
 
